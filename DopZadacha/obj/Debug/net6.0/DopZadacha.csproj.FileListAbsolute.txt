@@ -1,0 +1,15 @@
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\bin\Debug\net6.0\DopZadacha.exe
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\bin\Debug\net6.0\DopZadacha.deps.json
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\bin\Debug\net6.0\DopZadacha.runtimeconfig.json
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\bin\Debug\net6.0\DopZadacha.dll
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\bin\Debug\net6.0\DopZadacha.pdb
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\DopZadacha.csproj.AssemblyReference.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\DopZadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\DopZadacha.AssemblyInfoInputs.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\DopZadacha.AssemblyInfo.cs
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\DopZadacha.csproj.CoreCompileInputs.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\DopZadacha.dll
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\refint\DopZadacha.dll
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\DopZadacha.pdb
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\DopZadacha.genruntimeconfig.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 23.12.2022 (Kashirsky)\DopZadacha\obj\Debug\net6.0\ref\DopZadacha.dll
